@@ -16,17 +16,10 @@
 
 ---
 
-## 🎶 Fun Facts
+## 🎶 Hobbies
 
-- 🎵 I play the **Cello**
-- ⚽ I enjoy sports in my free time
-
----
-
-## 📈 GitHub Stats
-
-![Jonas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonas-si&show_icons=true&hide_title=true&count_private=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-si&layout=compact&theme=github_dark)
+- 🎵 Playing the **Cello**
+- ⚽ Enjoying sports
 
 ---
 
@@ -34,25 +27,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jonas-sigle-a430a12b5/)
 
----
 
-## 🚀 Automation Dashboards & More
-
-- You can embed screenshots or link to public dashboards (e.g., Grafana, Home Assistant) in your README as images or links!
-- Example:
-  ```markdown
-  ![My Smarthome Dashboard](https://your-dashboard-url/screenshot.png)
-  [Check out my live dashboard!](https://your-dashboard-url)
-  ```
-- For workflow badges, add:
-  ```markdown
-  ![Build Status](https://github.com/jonas-si/dualis-watcher/actions/workflows/<workflow_file>.yml/badge.svg)
-  ```
-- Add a visitor badge:
-  ```markdown
-  ![Visitor Count](https://komarev.com/ghpvc/?username=jonas-si&label=Profile%20views)
-  ```
-
----
-
-> ✨ Have fun customizing your README! You can update it as your projects and interests grow.
